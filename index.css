@@ -1,0 +1,21 @@
+body {
+ background-color: #E0E0E0;
+}
+
+h1 {
+ color: white;
+ background-color: green;
+ padding: 20px;
+ position: relative;
+ top: -25px;
+ left: -15px;
+ width: 100%;
+ }
+ 
+.aaa {
+ background-color: white;
+ border-radius: 10px;
+ margin: -20px 0 0 0;
+ padding: 10px 10px 10px 5px;
+ width: 100%;
+}
